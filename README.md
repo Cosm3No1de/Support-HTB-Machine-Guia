@@ -138,9 +138,7 @@ Raíz 	c78f6e6b7f4c8b2e3a9d1c5e7f8a2b4d
 
 ¡Feliz hackeo! 🎯
 ---
-
-<div align="center">
-  <sub>© 2026 cosmenoide · Security Research & Development</sub><br>
-  <sub>Pentesting · Active Directory · Exploit Development</sub>
-</div>
+---
+**cosmenoide** · Desarrollo y Seguridad  
+*Pentesting | Active Directory | Red Team*
 
